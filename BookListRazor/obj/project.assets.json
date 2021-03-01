@@ -1703,11 +1703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\repos\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
       "projectName": "BookListRazor",
-      "projectPath": "C:\\Users\\hp\\Desktop\\repos\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\repos\\BookListRazor\\BookListRazor\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\BookListRazor\\BookListRazor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
